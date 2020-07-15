@@ -1,0 +1,26 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "premier article",
+            "priceUnity": "5",
+            "quantity": 12
+        },
+        {
+            "id": 2,
+            "name": "khaled ",
+            "priceUnity": 4,
+            "quantity": 2
+        }
+    ],
+    "commandes": [{
+        "id": 1,
+        "date": "12/11/2002",
+        "product": {
+            "id": 1,
+            "name": "premier article",
+            "priceUnity": "5",
+            "quantity": 12
+        },
+        "Qntity": 19
+    }]
+}
